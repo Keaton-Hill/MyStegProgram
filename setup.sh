@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Navigate to the directory of the script
+cd "$(dirname "$0")"
+
+# Create a virtual environment
+python3 -m venv .venv
+
+# Activate the virtual environment
+source .venv/bin/activate
+
+# Install required packages
+pip install -r requirements.txt
+
+# Run the main application
+python main.py
