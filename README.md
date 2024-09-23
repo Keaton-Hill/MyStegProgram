@@ -5,7 +5,7 @@ Here's what's needed to get started.
 
 Open your terminal and cd into the directory where you downloaded the files. 
 
-Don't worry you can just download the .zip file and unpack everything in the repository. 
+Don't worry you can just download the "downloadMe.zip" file and unpack everything in the repository. 
 
 From there run ./setup.sh
 
