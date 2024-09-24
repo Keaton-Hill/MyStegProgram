@@ -1,6 +1,6 @@
 # MyStegProgram
 
-WINNDOWS USER READ BOTTOM PORTION AS WELL
+WINDOWS USER READ BOTTOM PORTION ASWELL
 
 I wanted to create a User Friendly Steg Program, so I did! 
 
@@ -22,4 +22,6 @@ Then make sure you remember any passoword you set so that you can decrypt later 
 
 Have fun! 
 
-For windows, manually download the .bat file and place it inside the unzipped folder before running. 
+For windows, also individually download python.bat and setup.bat. Run python.bat first then run the setup.bat and you should be good. 
+
+To uninstall python go to WIN+R control and uninstall from programs
